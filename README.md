@@ -24,5 +24,5 @@ Why I need "reset state" buttons: our hand chenges fingers poses eventually this
 
 "Reboot device"? Yep, this will "de-attach & attach" device.
 
-![averse](assets/2.png)
-![reverse](assets/3.png)
+![averse](assets/2.jpeg)
+![reverse](assets/3.jpeg)
